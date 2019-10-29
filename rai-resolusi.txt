@@ -1,0 +1,3 @@
+RAI RESOLUSI
+- Konsisten untuk mengerjakan skripsi
+- Membuat sebuah project menggunakan framework Laravel
